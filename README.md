@@ -1,4 +1,3 @@
-
 Para iniciar e cadastrar clique no Cadastro;
 para ir à listagem clique na listagem, clicando sobre o nome consegue ir para o cartão de visitas e editar a cor porém cada signo tem a sua definido por javascript.
 
